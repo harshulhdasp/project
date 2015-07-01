@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="state">The state having a largest area of forest cover in india</string>
+    <string name="percentage">The percentage of irrigated land in india is about</string>
+    <string name="peninsular">The southermost point of peninsular India that is kanyakumari is</string>
+    <string name="language">The number of major languages, recognized in the Indian Union as official language are</string>
+    <string name="rocks">The oldest rocks in India are reported from</string>
+    <string name="messageid">Your ans is submitted</string>
+
+</resources>
